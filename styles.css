@@ -282,7 +282,8 @@ height: 150px;
     background:rgba(27,33,64) ;
     border-radius: 20px;
     padding: 5px 50px 20px 50px;
-    margin-top: -7.3rem;
+    /* margin-top: -7.3rem; */
+    margin-top: 3rem;
     z-index: 2;
     position: relative;    
 }

@@ -45,7 +45,7 @@ export default function Hero() {
         >
           <div className="w-full h-full rounded-full bg-card overflow-hidden">
             <img
-              src="/indrajith.JPG"
+              src="https://indrajithac.github.io/indrajithac/indrajith.JPG"
               alt="Indrajith A C"
               className="w-full h-full object-cover"
             />

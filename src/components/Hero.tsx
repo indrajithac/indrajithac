@@ -7,7 +7,7 @@ export default function Hero() {
     document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
   const downloadPDF = () => {
     const link = document.createElement("a");
-    link.href = "/resume.pdf"; // file inside public folder
+    link.href = "/indrajithac/resume.pdf"; // file inside public folder
     link.download = "Indrajith_AC_Resume.pdf"; // downloaded file name
     document.body.appendChild(link);
     link.click();

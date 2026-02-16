@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# 🌐 Indrajith AC — Portfolio
 
-## Project info
+🚀 **Live Website:**  
+https://indrajithac.github.io/indrajithac/
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This repository contains the source code for my personal developer portfolio built using **React** and deployed via **GitHub Pages**.
 
-## How can I edit this code?
+The website was created using an AI-assisted workflow (Lovable AI) and completed within 1 hour to demonstrate rapid prototyping and modern frontend development practices.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 👨‍💻 About Me
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Frontend Software Developer with nearly **4 years of experience** building scalable, user-friendly web applications in product-based environments.
 
-Changes made via Lovable will be committed automatically to this repo.
+I specialize in developing responsive interfaces, reusable UI components, and modern frontend applications using the React ecosystem.
 
-**Use your preferred IDE**
+**Current Role:** Software Developer (Frontend) — EGuidance Labs LLP, Kochi
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
+**Frontend**
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 - Tailwind CSS
 
-## How can I deploy this project?
+**State Management**
+- Context API
+- Redux
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+**Tools & Platforms**
+- Git & GitHub
+- Lovable AI
+- Cursor AI
+- Postman
+- Sanity CMS
 
-## Can I connect a custom domain to my Lovable project?
+**Cloud Exposure**
+- AWS S3
+- AWS CloudFront
+- Firebase
+- Google Cloud Storage
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## ✨ Features
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Responsive design (mobile, tablet, desktop)
+- Clean modern UI
+- Project showcase
+- Optimized performance
+- Fast and lightweight portfolio
+- AI-assisted rapid development workflow
+
+---
+
+🌍 Deployment
+
+The portfolio is hosted using GitHub Pages.
+
+Live URL:
+https://indrajithac.github.io/indrajithac/
+
+📫 Contact
+
+GitHub: https://github.com/indrajithac
+
+Portfolio: https://indrajithac.github.io/indrajithac/
+
+Email: indrajithac@gmail.com
+
+
+---
+
+This version is **short, professional, recruiter-friendly**, and perfect for a portfolio repo.  
+If you want, I can next give you a **GitHub README that boosts profile visibility (SEO + recruiter scanning optimized)** — most developers miss that part.
+
